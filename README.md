@@ -6,6 +6,12 @@ User(s):
 1. Normal
 2. Admin(?) - (low priority, implementation for app showcasing purposes only)
 
+Planned functionallities:
+1. Sign up & login
+2. Create, edit, view, remove expense
+3. View, edit, delete account
+4. View item's average/current price (to tally with main goal 2)
+
 Planned architecture:
 1. Frontend - Angular (TBC JS or TS)
 2. Backend - Spring Boot
