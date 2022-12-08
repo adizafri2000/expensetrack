@@ -18,3 +18,5 @@ Planned architecture:
 3. DB - MySQL/Postgresql
 4. Container - Docker (compose preferably) / Kubernetes (can play on AKS)
 5. Server - Localhost, Codespaces, playwithdocker, azure (while subscription lasts)
+
+*This line is appended from a separate branch from main*
